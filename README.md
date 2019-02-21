@@ -23,6 +23,6 @@ This project is a reading list where users can add their to-read books and scrat
 
 ### Acknowledgements: 
 
-- Big thanks to [ghadeer-x](https://github.com/ghadeer-x)Ghadeer for her amazing presence and support. 
+- Big thanks to [ghadeer-x](https://github.com/ghadeer-x) for her amazing presence and support. 
 - Thanks to Mr.Usman and Mr.Michael for their help and patience.
-- Thanks to [@rawanah995](https://github.com/rawanah995), @sara0alyah(https://github.com/sara0alyah), and [@hala-almaimoni](https://github.com/rawanah995) for helping me throughout this project week.
+- Thanks to [@rawanah995](https://github.com/rawanah995), [@sara0alyah](https://github.com/sara0alyah), and [@hala-almaimoni](https://github.com/rawanah995) for helping me throughout this project week.
